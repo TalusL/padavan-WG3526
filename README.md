@@ -1,7 +1,6 @@
 # Padavan for ZBT-WG3526
 
 This repo. was collecting from Internet.
-
 這個原始碼的蒐集自網路各方
 ZBT-WG3526 infomation（設備資訊）:
 CPU:MT7621
